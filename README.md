@@ -1,2 +1,1 @@
-# Rock-Paper-Scissors 
-game
+https://rock-paper-scissors5.netlify.app/
